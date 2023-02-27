@@ -8,6 +8,7 @@ packages = [{include = "github_manager"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+dataset = "^1.6.0"
 
 
 [tool.poetry.group.dev.dependencies]
